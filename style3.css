@@ -1,0 +1,32 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.menu_bar{
+	background: hotpink;
+	text-align: center;
+}
+.menu_bar ul{
+  display: inline-flex;
+  list-style: none;
+  color:#fff;
+}
+
+.menu_bar ul li{
+  margin: 10px;
+  padding: 10px;
+
+}
+.menu_bar ul li a{
+  text-decoration: none;
+  color: #fff;
+  
+}
+.menu_bar ul li a:hover{
+  margin: 5px;
+  padding: 5px;
+  background: pink;
+  border-radius: 3px;
+  
+}
+
